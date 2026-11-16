@@ -15,10 +15,11 @@ Computer Science student (Statistics minor) at Simon Fraser University, graduati
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [SFU C2C](https://github.com/SuryaMurali2002/Xhack_hackathon) | AI course and internship planner that turns transcripts into role-targeted roadmaps. People's Choice winner at XHacks. | Next.js 14, TypeScript, OpenAI API, Tailwind |
+| [SFU C2C](https://github.com/SuryaMurali2002/Xhack_hackathon) ([Devpost](https://devpost.com/software/sfu-c2c)) | AI course and internship planner that turns transcripts into role-targeted roadmaps. People's Choice winner at XHacks. | Next.js 14, TypeScript, OpenAI API, Tailwind |
 | [SFSS Gondola Petition](https://github.com/SuryaMurali2002/SFSS-Gondola-Website-) | Deployed petition site for a 26,000-student transit advocacy campaign. | React, TypeScript, Supabase (PostgreSQL), Tailwind |
 | [HealthGPT](https://github.com/SuryaMurali2002/HealthGPT) | RAG healthcare chatbot over 16,400+ medical records, quantized to cut GPU memory use by 75%. | Python, Transformers, Mistral-7B, MiniLM |
-| Kaeru (StormHacks 2025) | Voice assistant that cancels subscriptions by phone, on a serverless backend. | AWS Lambda, Step Functions, Bedrock, Twilio |
+| [Kaeru](https://devpost.com/software/kaeru) (StormHacks 2025) | Dashboard that detects suspicious and recurring transactions and handles cancellations, including voice calls to merchants. | Next.js, TypeScript, AWS (Lambda, Step Functions, Bedrock, DynamoDB), Vapi |
+| [Budget Brawl](https://devpost.com/software/budget-brawl) (Mountain Madness 2026) | Forecasts the cost of your upcoming Google Calendar events, then lets you bet friends you'll stay within budget. | FastAPI, React, TypeScript, Snowflake Cortex |
 
 ## Tech
 
